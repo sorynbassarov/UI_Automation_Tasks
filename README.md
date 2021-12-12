@@ -1,2 +1,2 @@
-# UI_Automation_Tasks
-Test task for UI automation 
+# Levelslep.com -> UI Automation task
+1. npm install 
